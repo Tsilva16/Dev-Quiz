@@ -9,7 +9,7 @@ class AppBarWidget extends PreferredSize {
       decoration: BoxDecoration(gradient: AppGradients.linear),
       child: Row(
         children: [
-          Text("Olá, Tiago Dev"),
+          Text("Olá, Teste"),
           Container(
             width: 58,
             height: 58,
